@@ -30,8 +30,7 @@
         }
 
         .itemdetailpage .content article .item-image {
-            height: 240px;
-            width: 460px;
+            width: 320px;
         }
 
         .itemdetailpage .content article .item-content p {
@@ -51,6 +50,28 @@
         .itemdetailpage .content article {
             /* Define a single column, vertically scrolling article in snapped mode. */
             -ms-grid-columns: 300px 1fr;
+            -ms-grid-row: 2;
+            -ms-grid-rows: auto 60px;
+            display: -ms-grid;
+            height: 100%;
+            margin-left: 20px;
+            margin-top: 6px;
+            width: 300px;
+        }
+                .itemdetailpage .content .article2 {
+            /* Define a single column, vertically scrolling article in snapped mode. */
+            -ms-grid-columns: 300px 1fr;
+            -ms-grid-row: 2;
+            -ms-grid-rows: auto 60px;
+            display: -ms-grid;
+            height: 100%;
+            margin-left: 420px;
+            margin-top: 6px;
+            width: 300px;
+        }
+            .itemdetailpage .content .article3 {
+            /* Define a single column, vertically scrolling article in snapped mode. */
+            -ms-grid-columns: 800px 1fr;
             -ms-grid-row: 2;
             -ms-grid-rows: auto 60px;
             display: -ms-grid;

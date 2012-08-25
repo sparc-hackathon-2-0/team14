@@ -25,6 +25,36 @@
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\3PYJ_Rome_Braves_Logo.jpg">
+      <PackagePath>images\3PYJ_Rome_Braves_Logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\charleston-river-dogs.jpg">
+      <PackagePath>images\charleston-river-dogs.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\ChaseAnselment.jpg">
+      <PackagePath>images\ChaseAnselment.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\davidfilak.jpg">
+      <PackagePath>images\davidfilak.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\KyleAndrewKubitza.jpg">
+      <PackagePath>images\KyleAndrewKubitza.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\mmw_baseball_100308_article.jpg">
+      <PackagePath>images\mmw_baseball_100308_article.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-england-patriots-logo.jpg">
+      <PackagePath>images\new-england-patriots-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-york-jets-reflection-320x480.jpg">
+      <PackagePath>images\new-york-jets-reflection-320x480.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-york-yankees.jpg">
+      <PackagePath>images\new-york-yankees.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\DriveVsRiverdogs.png">
+      <PackagePath>images\DriveVsRiverdogs.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -40,6 +70,12 @@
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\GreenvilleDrive.jpeg">
+      <PackagePath>images\GreenvilleDrive.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\Redsox.gif">
+      <PackagePath>images\Redsox.gif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\js\data.js">
       <PackagePath>js\data.js</PackagePath>

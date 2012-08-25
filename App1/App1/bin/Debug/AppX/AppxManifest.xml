@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="6938d5ce-854b-4b13-86fa-b417de8bbeb1" Version="1.0.0.0" Publisher="CN=Darren" ProcessorArchitecture="neutral" />
+  <Identity Name="d3c76bd7-bce2-4d49-9c9c-ee50e5cf9146" Version="1.0.0.0" Publisher="CN=Darren" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>App1</DisplayName>
     <PublisherDisplayName>Darren</PublisherDisplayName>
@@ -22,9 +22,12 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="App1" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="App1" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="Sports Media Outlet" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="This application allows you to monitor articles about your teams across the internet" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
       </VisualElements>
     </Application>
   </Applications>

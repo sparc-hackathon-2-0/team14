@@ -35,7 +35,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>6938d5ce-854b-4b13-86fa-b417de8bbeb1</ProjectGuid>
+    <ProjectGuid>d3c76bd7-bce2-4d49-9c9c-ee50e5cf9146</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
     <VisualStudioVersion>11.0</VisualStudioVersion>
@@ -47,16 +47,26 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetPlatformVersion>8.0</TargetPlatformVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    
     <PackageCertificateKeyFile>App1_TemporaryKey.pfx</PackageCertificateKeyFile>
-    
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="css\default.css" />
+    <Content Include="images\3PYJ_Rome_Braves_Logo.jpg" />
+    <Content Include="images\charleston-river-dogs.jpg" />
+    <Content Include="images\ChaseAnselment.jpg" />
+    <Content Include="images\davidfilak.jpg" />
+    <Content Include="images\DriveVsRiverdogs.png" />
+    <Content Include="images\GreenvilleDrive.jpeg" />
+    <Content Include="images\KyleAndrewKubitza.jpg" />
     <Content Include="images\logo.png" />
+    <Content Include="images\mmw_baseball_100308_article.jpg" />
+    <Content Include="images\new-england-patriots-logo.jpg" />
+    <Content Include="images\new-york-jets-reflection-320x480.jpg" />
+    <Content Include="images\new-york-yankees.jpg" />
+    <Content Include="images\Redsox.gif" />
     <Content Include="images\smalllogo.png" />
     <Content Include="images\splashscreen.png" />
     <Content Include="images\storelogo.png" />
@@ -73,9 +83,7 @@
     <Content Include="pages\groupedItems\groupedItems.html" />
     <Content Include="pages\groupedItems\groupedItems.js" />
     <Content Include="default.html" />
-    
     <None Include="App1_TemporaryKey.pfx" />
-    
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />

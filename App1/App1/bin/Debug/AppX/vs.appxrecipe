@@ -5,10 +5,10 @@
     <WindowsUser>Darren</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>5EAA3EB49483A269EF5A0905FEA3902C7C048E4862ABEFF6E1B13C19230F91D3</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>6938d5ce-854b-4b13-86fa-b417de8bbeb1_1.0.0.0_neutral__4z3rvhs8jd59y</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>6938d5ce-854b-4b13-86fa-b417de8bbeb1_4z3rvhs8jd59y!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>6938d5ce-854b-4b13-86fa-b417de8bbeb1</RegisteredPackageID>
+    <RegisteredManifestChecksum>EC804CD7EF49C606BC7568CA6B9D9B983752708458B7B192EB3620B8A3BFA60D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d3c76bd7-bce2-4d49-9c9c-ee50e5cf9146_1.0.0.0_neutral__4z3rvhs8jd59y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d3c76bd7-bce2-4d49-9c9c-ee50e5cf9146_4z3rvhs8jd59y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d3c76bd7-bce2-4d49-9c9c-ee50e5cf9146</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Darren</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
@@ -16,25 +16,65 @@
     <AppXManifest Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-08-25T13:02:33.478</Modified>
+      <Modified>2012-08-25T16:56:47.026</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-08-25T13:02:25.793</Modified>
+      <Modified>2012-08-25T14:26:18.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2012-08-25T13:02:25.801</Modified>
+      <Modified>2012-08-25T17:29:50.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
-      <Modified>2012-08-25T13:02:25.779</Modified>
+      <Modified>2012-08-25T14:26:18.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2012-08-25T13:02:25.808</Modified>
+      <Modified>2012-08-25T14:26:18.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\3PYJ_Rome_Braves_Logo.jpg">
+      <PackagePath>images\3PYJ_Rome_Braves_Logo.jpg</PackagePath>
+      <Modified>2012-08-25T15:04:22.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\charleston-river-dogs.jpg">
+      <PackagePath>images\charleston-river-dogs.jpg</PackagePath>
+      <Modified>2012-08-25T15:04:42.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\ChaseAnselment.jpg">
+      <PackagePath>images\ChaseAnselment.jpg</PackagePath>
+      <Modified>2012-08-25T14:42:38.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\davidfilak.jpg">
+      <PackagePath>images\davidfilak.jpg</PackagePath>
+      <Modified>2012-08-25T14:40:50.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\KyleAndrewKubitza.jpg">
+      <PackagePath>images\KyleAndrewKubitza.jpg</PackagePath>
+      <Modified>2012-08-25T14:43:24.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\mmw_baseball_100308_article.jpg">
+      <PackagePath>images\mmw_baseball_100308_article.jpg</PackagePath>
+      <Modified>2012-08-25T15:15:11.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-england-patriots-logo.jpg">
+      <PackagePath>images\new-england-patriots-logo.jpg</PackagePath>
+      <Modified>2012-08-25T15:52:20.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-york-jets-reflection-320x480.jpg">
+      <PackagePath>images\new-york-jets-reflection-320x480.jpg</PackagePath>
+      <Modified>2012-08-25T15:54:19.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\new-york-yankees.jpg">
+      <PackagePath>images\new-york-yankees.jpg</PackagePath>
+      <Modified>2012-08-25T16:55:28.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\DriveVsRiverdogs.png">
+      <PackagePath>images\DriveVsRiverdogs.png</PackagePath>
+      <Modified>2012-08-25T15:30:35.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -49,56 +89,64 @@
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-07-26T18:30:08.000</Modified>
+      <Modified>2012-08-25T16:01:07.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T18:30:08.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\GreenvilleDrive.jpeg">
+      <PackagePath>images\GreenvilleDrive.jpeg</PackagePath>
+      <Modified>2012-08-25T15:05:23.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\images\Redsox.gif">
+      <PackagePath>images\Redsox.gif</PackagePath>
+      <Modified>2012-08-25T15:45:54.571</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2012-06-06T04:54:42.000</Modified>
+      <Modified>2012-08-25T17:19:20.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-08-25T13:02:25.721</Modified>
+      <Modified>2012-08-25T14:26:18.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
-      <Modified>2012-08-25T13:02:25.961</Modified>
+      <Modified>2012-08-25T14:26:18.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
-      <Modified>2012-08-25T13:02:25.991</Modified>
+      <Modified>2012-08-25T17:05:41.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
-      <Modified>2012-08-25T13:02:25.922</Modified>
+      <Modified>2012-08-25T14:26:18.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
-      <Modified>2012-08-25T13:02:25.928</Modified>
+      <Modified>2012-08-25T14:26:18.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
-      <Modified>2012-08-25T13:02:25.826</Modified>
+      <Modified>2012-08-25T17:32:40.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
-      <Modified>2012-08-25T13:02:25.811</Modified>
+      <Modified>2012-08-25T17:24:39.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2012-08-25T13:02:25.830</Modified>
+      <Modified>2012-08-25T16:01:45.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-08-25T13:02:25.746</Modified>
+      <Modified>2012-08-25T14:26:18.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Darren\Documents\GitHub\team14\App1\App1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-08-25T13:02:32.862</Modified>
+      <Modified>2012-08-25T16:56:46.965</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
